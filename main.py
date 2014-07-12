@@ -26,7 +26,7 @@ while running:
 		change = -1
 	else:
 		change = 1
-	print x
+	
 	pygame.display.flip()
 	
 	
