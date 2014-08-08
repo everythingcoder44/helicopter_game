@@ -3,12 +3,19 @@ helicopter_game
 
 Helicopter game clone in Pygame
 
-Running it
+Building it
 ----------------
+Clone the repository
+``git clone https://github.com/everythingcoder44/helicopter_game.git``
 
-Go install python and pygame.
-Then run:
+Switch to this branch
+``git checkout -b debian_source``
 
-``python main.py``
+Actually build the package
 
-Of course, you could also build an installation package from the source code in one of the other branches, then install and run that.
+``dpkg -b helicopter_game``
+
+Install the  package
+
+``sudo dpkg -i helicopter_game.deb``
+
