@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=Heligame
+Comment=A helicopter game clone written in Pygame
+Exec=python /usr/share/heligame/main.py
+Icon=/usr/share/heligame/resources/Helicopter.png
+Terminal=true

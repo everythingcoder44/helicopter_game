@@ -1,0 +1,12 @@
+Package: HeliGame
+Version: 0.97
+Architecture: all
+Maintainer: Ritik Mishra<ritik.mishra314@gmail.com>
+Installed-Size: 18
+Depends: python-pygame
+Section: games
+Priority: optional
+Homepage: http://example.com
+Description: This is a clone of the Helicopter game written in Python
+
+
