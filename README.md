@@ -11,6 +11,10 @@ Clone the repository
 Switch to this branch
 ``git checkout -b debian_source``
 
+Get rid of extras
+``rm README.md``
+``rmdir -r .git``
+
 Actually build the package
 
 ``dpkg -b helicopter_game``
